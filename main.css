@@ -72,7 +72,7 @@ button:active{
     90%{color: green}    
 }
 
-@media (max-width: 768px){
+@media (max-width: 600px){
     #calculator{
         width: 417px;
         height: 455px;
